@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of famous painters with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who painted Mona Lisa?",
+      "answers": ["Da Vinci", "Picasso", "Van Gogh"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who painted Starry Night?",
+      "answers": ["Van Gogh", "Monet", "Da Vinci"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who painted Guernica?",
+      "answers": ["Picasso", "Klimt", "Dali"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted The Scream?",
+      "answers": ["Munch", "Warhol", "Goya"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted Water Lilies?",
+      "answers": ["Monet", "Van Gogh", "Renoir"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted The Persistence of Memory?",
+      "answers": ["Dali", "Picasso", "Klee"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted The Kiss?",
+      "answers": ["Klimt", "Dali", "Munch"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted Girl with a Pearl Earring?",
+      "answers": ["Vermeer", "Da Vinci", "Rembrandt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted The Night Watch?",
+      "answers": ["Rembrandt", "Vermeer", "Goya"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who painted The Birth of Venus?",
+      "answers": ["Botticelli", "Michelangelo", "Raphael"],
       "correctAnswerIndex": 0
     }
   ]
